@@ -1,4 +1,4 @@
-![](https://github.com/veronicaferreiradevc/?)
+![](https://komarev.com/ghpvc/?username=veronicaferreiradev&color=ff69b4)
 
 ## Sobre mim
 
