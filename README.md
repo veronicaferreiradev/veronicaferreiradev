@@ -2,11 +2,11 @@
 
 ## Sobre mim
 
-💻 Olá, eu sou a Veronica Ferreira!
-🎯 Objetivo: Me tornar uma desenvolvedora Full Stack em Java.
-📚 Estudante de: Análise e Desenvolvimento de Sistemas (ADS).
-🚀 Habilidades: Java;
-📌 Atualmente: Estudando Programação Orientada a Objetos (POO), laços de repetição e explorando o mundo do desenvolvimento web e mobile.
+- 💻 Olá, eu sou a Veronica Ferreira!
+- 🎯 Objetivo: Me tornar uma desenvolvedora Full Stack em Java.
+- 📚 Estudante de: Análise e Desenvolvimento de Sistemas (ADS).
+- 🚀 Habilidades: Java;
+- 📌 Atualmente: Estudando Programação Orientada a Objetos (POO), laços de repetição e explorando o mundo do desenvolvimento web e mobile.
 
 💡 Gosto de criar projetos interativos, aplicar a tecnologia para resolver problemas reais e compartilhar conhecimento!
 
