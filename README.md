@@ -10,6 +10,7 @@
 
 💡 Gosto de criar projetos interativos, aplicar a tecnologia para resolver problemas reais e compartilhar conhecimento!
 
+
 🔗 LinkedIn https://www.linkedin.com/in/veronicaferreiradev/
 📩 E-mail: vevef.santos@hotmail.com
 
