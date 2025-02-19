@@ -21,6 +21,8 @@
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Portugol](https://img.shields.io/badge/-Portugol-333333?style=flat&logo=code&logoColor=white)
+
 
 **DevOps**
 
@@ -32,6 +34,8 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Spring Tool Suite](https://img.shields.io/badge/-Spring%20Tool%20Suite-333333?style=flat&logo=spring&logoColor=6DB33F)
+
 
 <br/>
 
@@ -41,6 +45,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([vevef.santos@hotmail.com](https://www.linkedin.com/in/veronicaferreiradev/))
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](vevef.santos@hotmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![LinkedIn](https://img.shields.io/badge/-Veronica%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veronicaferreiradev/)](https://www.linkedin.com/in/veronicaferreiradev/)
+[![Gmail](https://img.shields.io/badge/-vevef.santos@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vevef.santos@hotmail.com)](mailto:vevef.santos@hotmail.com)
+[![GitHub](https://img.shields.io/github/followers/veronicaferreiradev?label=follow&style=social)](https://github.com/veronicaferreiradev)
+
