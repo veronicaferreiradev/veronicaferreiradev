@@ -46,6 +46,6 @@
 ## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-Veronica%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veronicaferreiradev/)](https://www.linkedin.com/in/veronicaferreiradev/)
-[![Gmail](https://img.shields.io/badge/-vevef.santos@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vevef.san40@gmail.com)](mailto:vevef.san40@gmail.com)
+[![Gmail](https://img.shields.io/badge/-vevef.san40@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vevef.san40@gmail.com)](mailto:vevef.san40@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/veronicaferreiradev?label=follow&style=social)](https://github.com/veronicaferreiradev)
 
