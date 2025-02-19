@@ -39,8 +39,8 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/veronicaferreiradev" title="Perfil da Veronica Ferreira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veronicaferreiradev&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
